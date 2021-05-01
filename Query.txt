@@ -1,0 +1,1 @@
+Select P.name, C.name from P left join C on P.Id = C.pId order by P.name
